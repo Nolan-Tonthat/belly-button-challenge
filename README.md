@@ -20,7 +20,7 @@ Complete the following steps:
 
 * Use `otu_labels` as the hovertext for the chart.
 
-Example Bar Graph shown below: /br
+--Example Bar Graph shown below:--
 ![bar](images/bar.jpg)
 
 3. Create a bubble chart that displays each sample.
@@ -35,14 +35,14 @@ Example Bar Graph shown below: /br
 
 * Use `otu_labels` for the text values.
 
-Example Bubble Chart shown below: /br
+--Example Bubble Chart shown below:--
 ![bubble](images/bubble_chart.jpg)
 
 4. Display the sample metadata, i.e., an individual's demographic information.
 
 5. Display each key-value pair from the metadata JSON object somewhere on the page.
 
-Example Demographic Info shown below: /br
+--Example Demographic Info shown below:--
 ![info](images/info.jpg)
 
 6. Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard.
